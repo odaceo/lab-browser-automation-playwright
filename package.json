@@ -1,0 +1,14 @@
+{
+  "name": "lab-browser-automation-playwright",
+  "version": "1.0.0",
+  "description": "Browser Automation with Playwright",
+  "author": "Alexandre GARINO <aga@odaceo.ch>",
+  "main": "main.js",
+  "private": true,
+  "scripts": {
+    "start": "node main.js"
+  },
+  "devDependencies": {
+    "playwright": "^1.4.2"
+  }
+}

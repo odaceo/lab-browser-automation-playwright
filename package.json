@@ -9,6 +9,6 @@
     "start": "node main.js"
   },
   "devDependencies": {
-    "playwright": "^1.4.2"
+    "playwright": "^1.12.2"
   }
 }
